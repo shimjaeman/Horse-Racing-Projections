@@ -33,7 +33,7 @@
 |  [심재만](https://github.com/shimjaeman)  |     데이터 크롤링 및 모델링      |
 |  [권효은](https://github.com/)            |     데이터 전처리 및 PPT 제작    |
 |  [박재원](https://github.com/)            |     데이터 크롤링 및 모델링      |
-|  [이승희](https://github.com/)            |         Project Manager        |
+|  [이승희](https://github.com/)            | (PM)데이터 전처리 및 시각화      |
 |  [정진명](https://github.com/)            |     데이터 전처리 및 모델링      |
 |  [최규광](https://github.com/)            |     데이터 크롤링 및 시각화      |
 
