@@ -69,7 +69,3 @@ Scoring / Null 처리 / Scaling / Encoding
 
 ## 최종 결과
 <br><img width="100%" src="https://user-images.githubusercontent.com/95950967/202895014-4f3bea41-d02a-4bd9-9252-39ad216ed27e.jpg"/><br>
-
-
-## 참고논문 및 사이트
-*
